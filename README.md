@@ -17,7 +17,7 @@
 ## 🚀 快速开始 (Getting Started)
 ### 编译
 ```bash
-gcc -o v4l2_capture main.c
+gcc -o v4l2_capture v4l2_capture.c
 
 运行
 确保你的 USB 摄像头已连接到 Linux 环境，并具有 /dev/video0 权限。
