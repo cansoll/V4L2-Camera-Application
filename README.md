@@ -15,8 +15,8 @@
 - **Build Tool**: Makefile / GCC
 
 ## 🚀 快速开始 (Getting Started)
-### 编译
-```bash
+
+编译
 gcc -o v4l2_capture v4l2_capture.c
 
 运行
